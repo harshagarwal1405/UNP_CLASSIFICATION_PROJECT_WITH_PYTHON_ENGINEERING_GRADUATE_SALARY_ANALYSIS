@@ -1,3 +1,5 @@
 This project aims to classify engineering graduates’ salaries into “high” and “low” categories using supervised machine learning techniques. The dataset comprises 2,998 records with 27 attributes related to academic scores, skills, and personality traits. Data preprocessing involved cleaning invalid entries, handling missing values, treating outliers, and encoding categorical data for modeling. Exploratory Data Analysis (EDA) was performed to uncover patterns and correlations among variables affecting employability. Three classification models: Logistic Regression, Decision Tree, and Random Forest were trained and evaluated across multiple data splits. Comparative analysis revealed that Random Forest achieved the highest accuracy, making it the most reliable model for salary prediction. The study highlights how academic and behavioral factors influence compensation levels among graduates, offering valuable insights for institutions, recruiters, and students alike.
 
-Project File: https://drive.google.com/drive/folders/1PPXas0PpHvMrV4fpef_6FCVJDdGGqHuB?usp=sharing
+COLAB LINK: https://drive.google.com/file/d/1b2ASDyGjRYwFyV21jorMTZc3cz6mjvxH/view?usp=sharing
+
+PPT: https://drive.google.com/file/d/1VX7m93ueGi2tTkZK2yb0FvoO1_cJ0V4S/view?usp=sharing
